@@ -31,9 +31,4 @@ This repository contains a collection of Python scripts and examples focused on 
   - Abstract Classes and Interfaces
   - Real-world use cases of design patterns
 
-## Getting Started
 
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/Usama00004/Python.git
-cd Python
